@@ -2,7 +2,6 @@
 
 ## I'm a Network Systems Analyst based in the New York City area.
 
-- 🌱 I'm currently working at [Con Edison](https://careers.coned.com).
 - 🔭 My areas of expertise include Firewalls, Scripting, Networking, Packet Filtering, and Analysis.
 - 👯 I'm looking to collaborate on open source projects related to networking and cybersecurity.
 - 🤔 I'm looking for help with advanced scripting techniques.
